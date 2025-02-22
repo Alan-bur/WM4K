@@ -1,8 +1,8 @@
 ![Banner](https://github.com/user-attachments/assets/8d97a02c-f609-457c-aa7b-4ef1a47a042f)
 
-[![Issue](https://github.com/user-attachments/assets/94f49ebe-9a82-4b1b-bb53-f14063e773ea)](https://github.com/Alan-bur/WM4K/issues/new)
-[![Discord](https://github.com/user-attachments/assets/9fac2430-5425-4c37-b75c-4a3500c8c7e7)](https://discord.gg/6sCNcn3FjV)
-[![Support](https://github.com/user-attachments/assets/b77a9512-1a66-4823-aea9-95b500a4cf42)](https://patreon.com/abur?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Issue](https://github.com/user-attachments/assets/aa76ae3c-1ab0-44ad-af8c-05d1cbca3d1b)](https://github.com/Alan-bur/WM4K/issues/new)
+[![Discord](https://github.com/user-attachments/assets/935d7b02-f582-49f9-86d7-a2d762df4743)](https://discord.gg/6sCNcn3FjV)
+[![Support](https://github.com/user-attachments/assets/e6b7bd17-c326-4763-9a11-1fbe13e36772)](https://patreon.com/abur?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
