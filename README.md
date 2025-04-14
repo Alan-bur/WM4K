@@ -2,7 +2,7 @@
 
 [![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WM4K/issues/new)
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
-[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://patreon.com/abur?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
+[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://www.patreon.com/abur/membership?redirect=true)
 
 
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
