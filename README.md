@@ -1,4 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/8d97a02c-f609-457c-aa7b-4ef1a47a042f)
+![Banner](https://github.com/user-attachments/assets/dd0e2c95-840f-426f-822a-259d200450ee)
 
 [![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WM4K/issues/new)
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
