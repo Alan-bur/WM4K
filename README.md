@@ -1,141 +1,144 @@
-![Banner](https://github.com/user-attachments/assets/8d97a02c-f609-457c-aa7b-4ef1a47a042f)
+![Banner](https://github.com/user-attachments/assets/dd0e2c95-840f-426f-822a-259d200450ee)
 
-[![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WM4K/issues/new)
-[![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
-[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://patreon.com/abur?utm_medium=unknown&utm_source=join_link&utm_campaign=creatorshare_creator&utm_content=copyLink)
 
 
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
 
 ## About
-This project aims to prevent Wii Menu from pixelating on modern screens. It works for PC only and it can't be loaded by a real Wii since this console does not support 4k Textures. Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack” I’ve taken over to complete the project as it was unfinished and forgotten. Everything has been remade and polished with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
+This project aims to prevent the Wii Menu from pixelating on modern screens. It only works on Dolphin Emulator and it can't be loaded by a real Wii since it does not support 4K textures. Everything has been remade and polished with over 3000 new textures, so you can now enjoy using the Wii Menu on modern screens.
+
+Originally published by **SuperDuperRob** in 2020 as _HD Wii Texture Pack_, **Alan-bur** has taken over to complete the project because it was unfinished and forgotten. Unfortunately, he got greedy and removed everything from his GitHub repo, making downloads only available on Patreon (and you need to pay to get the download). He also decided to make you join his Discord server just to get the installation instructions.
+However, he didn't completely delete his repo, so I forked it and reverted the bad changes he made. Now you can download it for free (like you previously could) and get instructions without joining a Discord server.
 
 ## What has been changed?
-<li>Channels✅</li>
-<li>Fonts ✅</li>
-<li>Health & Safety Screen ✅</li>
-<li>Home Menu ✅</li>
-<li>Keyboard ✅</li>
-<li>Mail ✅</li>
-<li>Pointer ✅</li>
-<li>SD Menu ✅</li>
-<li>Settings ✅</li>
-<li>Setup ✅</li>
-<li>Wii Menu ✅</li>
+- Channels (Icons & Banners)
+- Fonts
+- Health & Safety Screen
+- Home Menu
+- Keyboard
+- Message Board
+- Pointer
+- SD Card Menu
+- Settings
+- Initial Setup
+- Wii Menu
 
 
 ## Installation
-[Join our Discord server for support, discussions, and updates! 🚀](https://discord.gg/6sCNcn3FjV)
+1. Download the Wii Menu USA version (if you don't already have it). Go to _Menu Bar_ → _Tools_ → _Perform Online System Update_ → _United States_. Select it and then click on “Yes”.<br>
+2. Enable _Auto-Adjust Window Size_. Go to _Dolphin Settings_ → _General_.<br>
+3. Enable _Texture Dumping_. Go to _Dolphin Settings_ → _Graphics_ → _Advanced_.<br>
+4. Enable _Load Custom Textures_ and _Prefetch Custom Textures_. Go to _Dolphin Settings_ → _Graphics_ → _Advanced_.<br>
+5. Set _Internal Resolution_ to _4x Native_ (or _3x Native_ if you're using 1080p). Go to _Dolphin Settings_ → _Graphics_ → _Enhancements_.<br>
+6. Move the `0000000100000002` folder into `C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures`.<br>
+7. Load the Wii Menu. Go to _Menu Bar_ → _Tools_ → _Load Wii System Menu 4.3U_.<br>
 
 ## Channel List
-Each channel must be edited in order to make it 4K. If you have made one, then make a pull request so i add it to the project and the list<br>
+Each channel must be edited in order to make it 4K. The following channels have 4K versions included in this texture pack.<br>
 
-### Default Channels:
-<li>Wii System Transfer</li>
-<li>Wii Menu Manual Channel</li>
-<li>Wii Fit Channel</li>
-<li>Wii U Menu Channel</li>
-<li>Wii U Transfer Tool</li>
-<li>Wii Photo Restore Channel</li>
-<li>Wii + Internet Channel</li>
-<li>Internet Channel</li>
-<li>Wii Menu Uninstaller</li>
-<li>Wii Fit Body Check Channel</li>
-<li>Wii Fit Plus Channel</li>
-<li>The Legend of Zelda Save Data Update Channel</li>
-<li>Minna no Theater Wii</li>
-<li>TV no Tomo Channel</li>
-<li>USB Flash Optimization</li>
-<li>Virtual Console</li>
-<li>Photo Prints Channel</li>
-<li>Wii Shop Channel</li>
-<li>Disc Channel</li>
-<li>Today & Tomorrow Channel</li>
-<li>Photo Channel</li>
-<li>Mii Channel</li>
+### System Channels:
+- Wii System Transfer
+- Electronic Wii Menu Manual
+- Wii Fit Channel
+- Wii U Menu
+- Wii U Transfer Tool
+- Wii Photo Restore Channel
+- Wii + Internet Channel (Get Connected Video)
+- Internet Channel
+- Wii Menu Uninstaller
+- Wii Fit Body Check Channel
+- Wii Fit Plus Channel
+- The Legend of Zelda: Skyward Sword Save Data Update Channel
+- Minna no Theater Wii
+- TV no Tomo Channel
+- USB Flash Optimization
+- Virtual Console
+- Wii Shop Channel
+- Disc Channel
+- Photo Channel
+- Mii Channel
 
 ### WiiLink/WiiConnect24 Channels:
-<li>Wii Speak Channel</li>
-<li>Wii Message Board</li>
-<li>Food Channel</li>
-<li>Photo Prints Channel</li>
-<li>Everybody votes Channel</li>
-<li>Forecast Channel</li>
-<li>Kirby TV Channel</li>
-<li>Check Mii Out Channel</li>
-<li>News Channel</li>
-<li>Nintendo Channel</li>
-<li>Wii Room</li>
+- Wii Speak Channel
+- Food Channel
+- Photo Prints Channel
+- Everybody Votes Channel
+- Forecast Channel
+- Kirby TV Channel
+- Today & Tomorrow Channel
+- Check Mii Out Channel
+- News Channel
+- Nintendo Channel
+- Wii Room
 
-### Game channels:
-<li>Animal Corssing City Folk</li>
-<li>de Blob</li>
-<li>de Blob 2</li>
-<li>Donkey Kong Country Returns</li>
-<li>Hudson</li>
-<li>Kirby Dream Collection Special Edition</li>
-<li>Kirby's Return to Dreamland</li>
-<li>Mario & Sonic at the London 2012 Olympic Games</li>
-<li>Mario & Sonic at the Olympic Games</li>
-<li>Mario & Sonic at the Olympic Winter Games</li>
-<li>Mario Kart Wii</li>
-<li>Mario Patty 8</li>
-<li>Mario Party 9</li>
-<li>Mario Sports Mix</li>
-<li>Mario Strikers Charged</li>
-<li>Mario Super Sluggers</li>
-<li>New Super Mario Bros Wii</li>
-<li>Super Mario Galaxy</li>
-<li>Super Mario Galaxy 2</li>
-<li>Super Paper Mario</li>
-<li>Super Smash Bros Brawl</li>
-<li>The Legend of Zelda Skyward Sword</li>
-<li>The Legend of Zelda Princess</li>
-<li>Wario Land Shake it!(Original)</li>
+### Games:
+- Animal Crossing: City Folk
+- de Blob
+- de Blob 2
+- Donkey Kong Country Returns
+- Hudson
+- Kirby Dream Collection Special Edition
+- Kirby's Return to Dream Land
+- Mario & Sonic at the London 2012 Olympic Games
+- Mario & Sonic at the Olympic Games
+- Mario & Sonic at the Olympic Winter Games
+- Mario Kart Wii
+- Mario Party 8
+- Mario Party 9
+- Mario Sports Mix
+- Mario Strikers Charged
+- Mario Super Sluggers
+- New Super Mario Bros. Wii
+- Super Mario Galaxy
+- Super Mario Galaxy 2
+- Super Paper Mario
+- Super Smash Bros. Brawl
+- The Legend of Zelda: Skyward Sword
+- The Legend of Zelda: Twilight Princess
+- Wario Land: Shake it! (Original)
 
 ### Extra Channels:
-<li>The Homebrew Channel</li>
-<li>Riivolution</li>
+- The Homebrew Channel
+- Riivolution
 
 ## Known Bugs:
 
 ### Channels
-<li>TV no Tomo Channel textures don’t fit very well making the lines and blocks not align correctly.</li>
-<li>Mario Kart Channel thumbnail has blue stars and they should be displayed as yellow.</li>
-<li>Riivolution needs a font change.</li>
-<li>Wii System Transfer and Wii U Transfer Tool characters are not 4K.</li>
+- TV no Tomo Channel textures don’t fit very well making the lines and blocks not align correctly.
+- Mario Kart Channel thumbnail has blue stars and they should be displayed as yellow.
+- Riivolution needs a font change.
+- Wii System Transfer and Wii U Transfer Tool characters are not 4K.
 
 ### Wii Menu
-<li> Console Nickname: Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname into "Wii" or "wii" would make it work. </li>
-<li> Calendar: I won’t turn the “Date” and “Time” sections into 4K because i have to make each texture for each year, minute and hour and that would take a lot of time. </li>
-<li> Internet: “Manual setup” and “Change settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures. </li>
-<li> Parental Controls: I had to remake the “Choose a question” section so that the questions are not clickable. This was made so i don’t have to turn non sense textures into 4K. </li>
-<li> The secret question section is also not 4K (and it won’t be) because it requires input. </li>
-<li> Fonts are a bit missplaced </li>
+- **Console Nickname:** Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname to "Wii" or "wii" will restore the 4K textures.
+- **Calendar:** I won’t turn the “Date” and “Time” sections into 4K because I would have to make a texture for each year, minute, and hour, and that would take a lot of time.
+- **Internet:** “Manual Setup” and “Change Settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures.
+- **Parental Controls:** I had to remake the “Choose a question” section so that the questions are not clickable. This was done so I don’t have to turn nonsense textures into 4K.
+  - The secret question section is also not 4K (and it won’t be) because it requires input.
+  - Fonts are a bit missplaced.
 
 ## Next update
-On the new update i will be modifying and polishing these:
-<li>Mario Kart Channel</li>
-<li>Mii Channel</li>
-<li>Wii Sports Resort</li>
+I have no idea what the next update will be. Check the original repo for information about updates.
 
 ## Donations
-Your support enables me to continue enhancing the Wii menu textures, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible. <br>
-https://paypal.me/deadpxlz?country.x=AR&locale.x=es_XC
+I don't encourage donating to people that hide their download links behind a paywall and a Discord server.
+If you really want to donate to the original creator, you can find his Patreon link at the bottom of the README in the original repo.
 
-<h3>DISCLAIMER</h3>
-This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
+## DISCLAIMER
+This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by Alan-bur to enhance the visual experience on modern emulators and are not intended for commercial use.
 
-<h4>Fair Use</h4>
-This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
+### Fair Use
+This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.  
+> Then why did you move to Patreon and start making people pay for it?
 
-<h4>Intellectual Property</h4>
-All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact me to resolve the matter amicably.
+### Intellectual Property
+All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact Alan-bur to resolve the matter amicably.
 
-<h4>About Donations</h4>
-Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
+### About Donations
+In the words of **Alan-bur** (the creator of this texture pack):  
+> Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
 
-<h4>Contact</h4>
-For any inquiries or removal requests, please contact: alanbur2020@gmail.com.
-
+### Contact
+For any inquiries or removal requests, please contact the original creator at alanbur2020@gmail.com.  
+If you have a request related to this fork, please send an email to <ins>53nppcxl \[at] anonaddy \[dot] com</ins> (only contact me if it's important).
 
