@@ -1,3 +1,11 @@
+<!--
+TO-DO:
+- Rearrange channel list
+- Add forecast and news channels to system channel list
+- Move game-installed channels to dedicated category
+- Fix colon inconsistencies
+-->
+
 ![Banner](https://github.com/user-attachments/assets/dd0e2c95-840f-426f-822a-259d200450ee)
 
 
@@ -5,10 +13,10 @@
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
 
 ## About
-This project aims to prevent the Wii Menu from pixelating on modern screens. It only works on Dolphin Emulator and it can't be loaded by a real Wii since it does not support 4K textures. Everything has been remade and polished with over 3000 new textures, so you can now enjoy using the Wii Menu on modern screens.
+This project aims to prevent the Wii Menu from pixelating on modern screens. It only works on Dolphin Emulator and it can't be loaded by a real Wii since it does not support 4K textures. Everything has been remade and polished with over 3000 new textures, so you can enjoy using the Wii Menu on modern screens.
 
 Originally published by **SuperDuperRob** in 2020 as _HD Wii Texture Pack_, **Alan-bur** has taken over to complete the project because it was unfinished and forgotten. Unfortunately, he got greedy and removed everything from his GitHub repo, making downloads only available on Patreon (and you need to pay to get the download). He also decided to make you join his Discord server just to get the installation instructions.
-However, he didn't completely delete his repo, so I forked it and reverted the bad changes he made. Now you can download it for free (like you previously could) and get instructions without joining a Discord server.
+However, he didn't completely delete his repo, so I forked it and reverted the bad changes he made. Now you can download it for free (like you previously could). You can also get instructions without joining a Discord server.
 
 ## What has been changed?
 - Channels (Icons & Banners)
@@ -25,7 +33,7 @@ However, he didn't completely delete his repo, so I forked it and reverted the b
 
 
 ## Installation
-1. Download the Wii Menu USA version (if you don't already have it). Go to _Menu Bar_ → _Tools_ → _Perform Online System Update_ → _United States_. Select it and then click on “Yes”.<br>
+1. Download the North American release of the Wii Menu (if you don't already have it). Go to _Menu Bar_ → _Tools_ → _Perform Online System Update_ → _United States_. Select it and then click on “Yes”.<br>
 2. Enable _Auto-Adjust Window Size_. Go to _Dolphin Settings_ → _General_.<br>
 3. Enable _Texture Dumping_. Go to _Dolphin Settings_ → _Graphics_ → _Advanced_.<br>
 4. Enable _Load Custom Textures_ and _Prefetch Custom Textures_. Go to _Dolphin Settings_ → _Graphics_ → _Advanced_.<br>
@@ -64,10 +72,10 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - Photo Prints Channel
 - Everybody Votes Channel
 - Forecast Channel
+- News Channel
 - Kirby TV Channel
 - Today & Tomorrow Channel
 - Check Mii Out Channel
-- News Channel
 - Nintendo Channel
 - Wii Room
 
@@ -95,11 +103,11 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - Super Smash Bros. Brawl
 - The Legend of Zelda: Skyward Sword
 - The Legend of Zelda: Twilight Princess
-- Wario Land: Shake it! (Original)
+- Wario Land: Shake it! _(Original)_
 
 ### Extra Channels:
 - The Homebrew Channel
-- Riivolution
+- Riivolution _(Forwarder)_
 
 ## Known Bugs:
 
@@ -111,17 +119,17 @@ Each channel must be edited in order to make it 4K. The following channels have 
 
 ### Wii Menu
 - **Console Nickname:** Setting a custom name for the Wii makes that section lose 4K quality. Setting the nickname to "Wii" or "wii" will restore the 4K textures.
-- **Calendar:** I won’t turn the “Date” and “Time” sections into 4K because I would have to make a texture for each year, minute, and hour, and that would take a lot of time.
+- **Calendar:** Alan-bur won’t turn the “Date” and “Time” sections into 4K because he would have to make a texture for each year, minute, and hour, and that would take a lot of time.
 - **Internet:** “Manual Setup” and “Change Settings” for Wireless Conection are also imposible to make because each section has a custom input and that means infinite textures.
-- **Parental Controls:** I had to remake the “Choose a question” section so that the questions are not clickable. This was done so I don’t have to turn nonsense textures into 4K.
+- **Parental Controls:** Alan-bur had to remake the “Choose a question” section so that the questions are not clickable. This was done so he didn’t have to turn nonsense textures into 4K.
   - The secret question section is also not 4K (and it won’t be) because it requires input.
-  - Fonts are a bit missplaced.
+  - Fonts are a bit misplaced.
 
 ## Next update
 I have no idea what the next update will be. Check the original repo for information about updates.
 
 ## Donations
-I don't encourage donating to people that hide their download links behind a paywall and a Discord server.
+I don't encourage donating to people that hide their download links behind a paywall.
 If you really want to donate to the original creator, you can find his Patreon link at the bottom of the README in the original repo.
 
 ## DISCLAIMER
@@ -137,6 +145,8 @@ All original content is owned by Nintendo. This project does not intend to infri
 ### About Donations
 In the words of **Alan-bur** (the creator of this texture pack):  
 > Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
+
+This is obviously not true. You need to join his Patreon to get the download.
 
 ### Contact
 For any inquiries or removal requests, please contact the original creator at alanbur2020@gmail.com.  
