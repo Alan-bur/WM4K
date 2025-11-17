@@ -1,11 +1,3 @@
-<!--
-TO-DO:
-- Rearrange channel list
-- Add forecast and news channels to system channel list
-- Move game-installed channels to dedicated category
-- Fix colon inconsistencies
--->
-
 ![Banner](https://github.com/user-attachments/assets/dd0e2c95-840f-426f-822a-259d200450ee)
 
 
@@ -44,29 +36,20 @@ However, he didn't completely delete his repo, so I forked it and reverted the b
 ## Channel List
 Each channel must be edited in order to make it 4K. The following channels have 4K versions included in this texture pack.<br>
 
-### System Channels:
-- Wii System Transfer
-- Electronic Wii Menu Manual
-- Wii Fit Channel
-- Wii U Menu
-- Wii U Transfer Tool
-- Wii Photo Restore Channel
-- Wii + Internet Channel (Get Connected Video)
-- Internet Channel
-- Wii Menu Uninstaller
-- Wii Fit Body Check Channel
-- Wii Fit Plus Channel
-- The Legend of Zelda: Skyward Sword Save Data Update Channel
-- Minna no Theater Wii
-- TV no Tomo Channel
-- USB Flash Optimization
-- Virtual Console
-- Wii Shop Channel
+### System Channels
 - Disc Channel
-- Photo Channel
 - Mii Channel
+- Photo Channel
+- Wii Shop Channel
+- Wii System Transfer
+- Wii Menu Electronic Manual
+- Wii U Menu
+- Forecast Channel
+- News Channel
+- Wii + Internet Channel (Get Connected Video)
+- Virtual Console
 
-### WiiLink/WiiConnect24 Channels:
+### WiiLink/WiiConnect24 Channels
 - Wii Speak Channel
 - Food Channel
 - Photo Prints Channel
@@ -79,13 +62,21 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - Nintendo Channel
 - Wii Room
 
-### Games:
+### Downloadable Channels
+- Internet Channel
+- The Legend of Zelda: Skyward Sword Save Data Update Channel
+- Wii Photo Restore Channel
+- Wii U Transfer Tool
+- Minna no Theater Wii
+- TV no Tomo Channel
+
+### Games
 - Animal Crossing: City Folk
 - de Blob
 - de Blob 2
 - Donkey Kong Country Returns
 - Hudson
-- Kirby Dream Collection Special Edition
+- Kirby Dream Collection (Special Edition)
 - Kirby's Return to Dream Land
 - Mario & Sonic at the London 2012 Olympic Games
 - Mario & Sonic at the Olympic Games
@@ -105,11 +96,18 @@ Each channel must be edited in order to make it 4K. The following channels have 
 - The Legend of Zelda: Twilight Princess
 - Wario Land: Shake it! _(Original)_
 
-### Extra Channels:
-- The Homebrew Channel
-- Riivolution _(Forwarder)_
+### Game-Installed Channels
+- Wii Fit Channel
+- Wii Fit Plus Channel
 
-## Known Bugs:
+### Other Channels
+- The Homebrew Channel
+- Riivolution Forwarder
+- Wii Menu Uninstaller
+- Wii Fit Body Check Channel
+- USB Flash Optimization
+
+## Known Bugs
 
 ### Channels
 - TV no Tomo Channel textures don’t fit very well making the lines and blocks not align correctly.
@@ -125,7 +123,7 @@ Each channel must be edited in order to make it 4K. The following channels have 
   - The secret question section is also not 4K (and it won’t be) because it requires input.
   - Fonts are a bit misplaced.
 
-## Next update
+## Next Update
 I have no idea what the next update will be. Check the original repo for information about updates.
 
 ## Donations
