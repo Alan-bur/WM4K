@@ -119,7 +119,7 @@ Your support enables me to continue enhancing these texture packs, bringing them
 https://www.patreon.com/c/abur/membership
 
 ## DISCLAIMER
-This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created by me to enhance the visual experience on modern screens and are not intended for commercial use.
+This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
 
 #### Fair Use
 This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
