@@ -2,13 +2,13 @@
 
 [![Issue](https://github.com/user-attachments/assets/d03bf48d-bb9f-41e2-bd3a-4160f81f8774)](https://github.com/Alan-bur/WM4K/issues/new)
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
-[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://www.patreon.com/abur/membership?redirect=true)
+[![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://ko-fi.com/abur)
 
 
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
 
 ## About
-This project aims to prevent Wii Menu from pixelating on modern screens. It works for PC only and it can't be loaded by a real Wii since this console does not support 4k Textures. Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack” I’ve taken over to complete the project as it was unfinished and forgotten. Everything has been remade and polished with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
+This project aims to prevent Wii Menu from pixelating on modern screens. It works for PC only and it can't be loaded by a real Wii since this console does not support 4k Textures. Originally published by “SuperDuperRob” in 2020 as “HD Wii Texture Pack” I’ve got his permission to take over and complete the project as it was unfinished and forgotten. Everything has been remade and polished by hand with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
 
 ## What has been changed?
 - Channels✅
