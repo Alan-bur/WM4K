@@ -24,79 +24,20 @@ This project aims to prevent Wii Menu from pixelating on modern screens. It work
 - Wii Menu ✅
 - Translations ⌛
 
-
 ## Installation
-[Join our Discord server for support, discussions, and updates! 🚀](https://discord.gg/6sCNcn3FjV)
+1. Download the North American release of the Wii Menu (if you don't already have it). Go to Menu Bar → Tools → Perform Online System Update → United States. Select it and then click on “Yes”.
+2. Enable Auto-Adjust Window Size. Go to Dolphin Settings → General.
+3. Enable Texture Dumping. Go to Dolphin Settings → Graphics → Advanced.
+4. Enable Load Custom Textures and Prefetch Custom Textures. Go to Dolphin Settings → Graphics → Advanced.
+5. Set Internal Resolution to 4x Native (or 3x Native if you're using 1080p). Go to Dolphin Settings → Graphics → Enhancements.
+6. Move the 0000000100000002 folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.
+7. Load the Wii Menu. Go to Menu Bar → Tools → Load Wii System Menu 4.3U.
+8. Everything ready to play! 🫧☺️
+
+Still need help? [Watch my video tutorial](https://www.youtube.com/watch?v=TnY6HyZ7034&t=2s) or [join the discord server!](https://discord.gg/6sCNcn3FjV)
 
 ## Channel List
-Each channel must be edited in order to make it 4K. If you have made one, then make a pull request so i add it to the project and the list<br>
-
-### Default Channels:
-- Wii System Transfer
-- Wii Menu Manual Channel
-- Wii Fit Channel
-- Wii U Menu Channel
-- Wii U Transfer Tool
-- Wii Photo Restore Channel
-- Wii + Internet Channel
-- Internet Channel
-- Wii Menu Uninstaller
-- Wii Fit Body Check Channel
-- Wii Fit Plus Channel
-- The Legend of Zelda Save Data Update Channel
-- Minna no Theater Wii
-- TV no Tomo Channel
-- USB Flash Optimization
-- Virtual Console
-- Photo Prints Channel
-- Wii Shop Channel
-- Disc Channel
-- Today & Tomorrow Channel
-- Photo Channel
-- Mii Channel
-
-### WiiLink/WiiConnect24 Channels:
-- Wii Speak Channel
-- Wii Message Board
-- Food Channel
-- Photo Prints Channel
-- Everybody votes Channel
-- Forecast Channel
-- Kirby TV Channel
-- Check Mii Out Channel
-- News Channel
-- Nintendo Channel
-- Wii Room
-
-### Game channels:
-- Animal Corssing City Folk
-- de Blob
-- de Blob 2</li>
-- Donkey Kong Country Returns
-- Hudson
-- Kirby Dream Collection Special Edition
-- Kirby's Return to Dreamland
-- Mario & Sonic at the London 2012 Olympic Games
-- Mario & Sonic at the Olympic Games
-- Mario & Sonic at the Olympic Winter Games
-- Mario Kart Wii
-- Mario Patty 8
-- Mario Party 9
-- Mario Sports Mix
-- Mario Strikers Charged
-- Mario Super Sluggers
-- New Super Mario Bros Wii
-- Super Mario Galaxy
-- Super Mario Galaxy 2
-- Super Paper Mario
-- Super Smash Bros Brawl
-- The Legend of Zelda Skyward Sword
-- The Legend of Zelda Princess
-- Wario Land Shake it!(Original)
-
-### Extra Channels:
-- The Homebrew Channel
-- Riivolution
+There are a lot of channels out there and decided to order them [inside this excel sheet to keep the progress organized](https://docs.google.com/spreadsheets/d/1CwJun38H70kUvNCbsWNl7ZPuu7bygs59keiZNfTNVg4/edit?usp=sharing).<br>
 
 ## Known Bugs:
 
@@ -116,7 +57,8 @@ Each channel must be edited in order to make it 4K. If you have made one, then m
 
 ## Donations
 Your support enables me to continue enhancing these texture packs, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible.
-https://www.patreon.com/c/abur/membership
+- https://www.patreon.com/c/abur/membership <br>
+- https://ko-fi.com/abur <br>
 
 ## DISCLAIMER
 This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
