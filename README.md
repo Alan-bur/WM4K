@@ -55,24 +55,10 @@ There are a lot of channels out there and decided to organize them [inside this 
 - The secret question section is also not 4K (and it won’t be) because it requires input.
 - The "System has been corrupted" font is a bit missplaced
 
-## Donations
-Your support enables me to continue enhancing these texture packs, bringing them to life in stunning 4K resolution. Your contribution not only helps me achieve this goal but also encourages my passion for creating and sharing high-quality texture packs with the community. Thank you for believing in my work and making this improvement possible.
-- https://www.patreon.com/c/abur/membership <br>
-- https://ko-fi.com/abur <br>
+## Early Access & Donations
+This project and all previous versions are completely free. Support through [Patreon](https://www.patreon.com/c/abur/membership) and [Ko-Fi](https://ko-fi.com/abur) helps fund ongoing development and may provide optional early access to the latest updates. The texture pack itself remains publicly available at no cost. <br>
+Thank you for supporting my work. 💖 
 
 ## DISCLAIMER
-This texture pack is an unofficial fan project and is not affiliated with, endorsed, or approved by Nintendo. All textures have been created or modified by me to enhance the visual experience on modern emulators and are not intended for commercial use.
-
-#### Fair Use
-This texture pack is distributed for free under the principle of "fair use" to improve accessibility and visual quality. It should not be used for commercial purposes or any form of profit.
-
-#### Intellectual Property
-All original content is owned by Nintendo. This project does not intend to infringe on Nintendo's copyrights or intellectual property. If you are a representative of Nintendo or any other entity with rights to the original content and believe this project violates your rights, please contact me to resolve the matter amicably.
-
-#### About Donations
-Donations are entirely optional and are meant to support my ongoing work in creating and maintaining fan projects. Donations are not payments for this texture pack and do not grant any special access or benefits related to it.
-
-#### Contact
-For any inquiries or removal requests, please contact: alanbur2020@gmail.com.
-
-
+This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Nintendo. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
+For inquiries or removal requests, please contact: alanbur2020@gmail.com
