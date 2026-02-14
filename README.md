@@ -25,14 +25,15 @@ This project aims to prevent Wii Menu from pixelating on modern screens. It work
 - Translations ⌛
 
 ## Installation
-1. Download the North American release of the Wii Menu (if you don't already have it). Go to Menu Bar → Tools → Perform Online System Update → United States. Select it and then click on “Yes”.
-2. Enable Auto-Adjust Window Size. Go to Dolphin Settings → General.
-3. Enable Texture Dumping. Go to Dolphin Settings → Graphics → Advanced.
+1. Download the [latest release](https://github.com/Alan-bur/WM4K/releases/latest/download/0000000100000002.zip).
+2. Download the North American release of the Wii Menu. Go to Menu Bar → Tools → Perform Online System Update → United States. Select it and then click on “Yes”.
+3. Enable Auto-Adjust Window Size. Go to Dolphin Settings → General.
 4. Enable Load Custom Textures and Prefetch Custom Textures. Go to Dolphin Settings → Graphics → Advanced.
-5. Set Internal Resolution to 4x Native (or 3x Native if you're using 1080p). Go to Dolphin Settings → Graphics → Enhancements.
+5. Set Internal Resolution to 4x Native. Go to Dolphin Settings → Graphics → Enhancements.
 6. Move the 0000000100000002 folder into C:\Users\your_user\AppData\Roaming\Dolphin Emulator\Load\Textures.
-7. Load the Wii Menu. Go to Menu Bar → Tools → Load Wii System Menu 4.3U.
-8. Everything ready to play! 🫧☺️
+7. Extract the 0000000100000002 folder. Right click → Exctract all → Extract.
+8. Load the Wii Menu. Go to Menu Bar → Tools → Load Wii System Menu 4.3U.
+9. Everything ready to play! 🫧☺️
 
 Still need help? [Watch my video tutorial](https://www.youtube.com/watch?v=TnY6HyZ7034&t=2s) or [join the discord server!](https://discord.gg/6sCNcn3FjV)
 
