@@ -4,11 +4,12 @@
 [![Discord](https://github.com/user-attachments/assets/69ab43d1-1a1e-4df9-97e0-7e65615aa113)](https://discord.gg/6sCNcn3FjV)
 [![Support](https://github.com/user-attachments/assets/dc970883-2c87-45a5-9628-eef84168d424)](https://ko-fi.com/abur)
 
-
 https://github.com/Alan-bur/Wii-4K/assets/24195711/9022e63b-7b60-4183-85a7-c5888fb9aaae
 
 ## About
 This project aims to prevent Wii Menu from pixelating on modern screens. It works for PC only and it can't be loaded by a real Wii since this console does not support 4k Textures. Originally published by [“SuperDuperRob”](https://forums.dolphin-emu.org/Thread-hd-wii-menu-texture-pack) in 2019 as “HD Wii Texture Pack” I’ve got his permission to take over and complete the project as it was unfinished and forgotten. Everything has been remade and polished by hand with over 3000+ new textures so you can now enjoy exploring the Wii Menu on newer screens.
+
+[⭐ Star this repo](https://github.com/Alan-bur/WM4K/stargazers) · [👁️ Watch for updates](https://github.com/Alan-bur/WM4K/subscription) · [👤 Follow me](https://github.com/Alan-bur)
 
 ## What has been changed?
 - Channels✅
@@ -63,3 +64,5 @@ Thank you for supporting my work. 💖
 ## DISCLAIMER
 This texture pack is an unofficial fan-made project and is not affiliated with or endorsed by Nintendo. All original content and trademarks belong to their respective owners. This pack contains only hand-created textures and does not include any original files. <br>
 For inquiries or removal requests, please [open an issue](https://github.com/Alan-bur/WM4K/issues/new).
+
+## Before you go
